@@ -1,9 +1,4 @@
----
-tags: kids, ruby, mailgun, messaging, apis
-languages: ruby
-level: 1
-type: Intro, Documentation
----
+
 
 ## Mailgun
 
