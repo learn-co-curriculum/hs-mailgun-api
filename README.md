@@ -19,3 +19,5 @@ You can adjust the `:from`, `:subject` and `:text` values to any strings that yo
 You can run a test example by forking and cloning this lab and putting your email address in the `:to` field in `mailgun-test.rb`. Then run `ruby mailgun_test.rb` in your terminal. Don't forget to add your email address to the file first and `gem install mailgun`!
 
 
+
+<a href='https://learn.co/lessons/hs-mailgun-api' data-visibility='hidden'>View this lesson on Learn.co</a>
