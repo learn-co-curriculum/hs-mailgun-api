@@ -20,4 +20,4 @@ You can run a test example by forking and cloning this lab and putting your emai
 
 
 
-<a href='https://learn.co/lessons/hs-mailgun-api' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-mailgun-api' title='Mailgun'>Mailgun</a> on Learn.co and start learning to code for free.</p>
